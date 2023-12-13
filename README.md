@@ -18,6 +18,7 @@ This in turn will help improve seasonal forecasts of the sea ice and heat fluxes
 Here, we will upload our presentations and posters from seminars and workshops. 
 
 1. Poster at EC-ESA Joint Earth System Initiative, Frascati, Italy (22.-24.11.23)
+   https://github.com/h-wilborn/superice-nersc.github.io/blob/main/Poster_SuperIce-EC-ESA_Joint_Earth_System_Initiative_2023.pdf 
 
 2. Presentation as part of the Machine Learning seminar series at the University of Bergen, Norway (06.12.23)
 
