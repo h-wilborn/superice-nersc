@@ -28,6 +28,6 @@ Here, we will upload our presentations and posters from seminars and workshops.
 SuperIce is funded by the European Space Agency FutureEO programme and supervised by Philab.
 
 
-## Project partners
+## Project management
 The Nansen Environmental and Remote Sensing Center in Bergen, Norway is leading the SuperIce project. 
 
