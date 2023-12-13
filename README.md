@@ -17,11 +17,11 @@ This in turn will help improve seasonal forecasts of the sea ice and heat fluxes
 ## What can you find on this page?
 Here, we will upload our presentations and posters from seminars and workshops. 
 
-1. EC-ESA Joint Earth System Initiative, Frascati, Italy (22.-24.11.23)
+1. Poster at EC-ESA Joint Earth System Initiative, Frascati, Italy (22.-24.11.23)
 
-2. Part of the Machine Learning seminar series at the University of Bergen, Norway (06.12.23)
+2. Presentation as part of the Machine Learning seminar series at the University of Bergen, Norway (06.12.23)
 
-3. Part of the institute seminar series at LOPS, Brest, France (18.12.23)
+3. Presentation as part of the institute seminar series at LOPS, Brest, France (18.12.23)
    
 
 ## Funding
